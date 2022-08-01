@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">3x+1</string>
+
+    <string name="tab_gdx">Overview</string>
+    <string name="tab_setup">Settings</string>
+    <string name="tab_credits">Credits</string>
+
+    <string name="fragment_overview">Hello Overview</string>
+    <string name="fragment_settings">Hello Settings</string>
+    <string name="fragment_credits">Hello Credits</string>
+
+    <string name="title_proc">Processes</string>
+    <string name="title_exec">Execution</string>
+
+    <string name="proc_orange">Orange</string>
+    <string name="proc_blue">Blue</string>
+
+    <string name="exec_active">Simulation</string>
+    <string name="comment_number">Current number</string>
+    <string name="reset">Stop &amp; Reset</string>
+
+    <string name="title_about">About 3x+1</string>
+    <string name="feed1">The Collatz conjecture is one of the most famous unsolved problem in mathematics. The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1.</string>
+    <string name="feed2">My task was to write a demo program showing how unpredictable the behavior of a sequence built using this rule. The two processes try different numbers before finding the hardest number 3x+1 (the one that gives the longest sequence on the way to 1). The top 10 such numbers are shown as circles of various sizes.</string>
+
+    <string name="title_best">Most hardest 3x+1</string>
+
+
+</resources>
